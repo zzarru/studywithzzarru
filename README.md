@@ -35,7 +35,7 @@
 
 이미지 삽입 `![제목](이미지 링크)`
 
-![터벅터벅나의인생..](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwkosmo.tistory.com%2Fentry%2F%25EC%25B5%259C%25EA%25B3%25A0%25EC%258B%25AC%25EC%25A7%25A4&psig=AOvVaw1EzX_qQrcpYH7Fbx0X4GPt&ust=1674618715608000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKC21YGn3_wCFQAAAAAdAAAAABAD)
+![터벅터벅나의인생..](https://blog.kakaocdn.net/dn/kGVd7/btriacvo3YS/KnWVPcc94ajnKMVPyfNnVK/img.jpg)
 
 * 이미지의 너비와 높이는 조절할 수 없음 (조정하려면 HTML 사용해야 됨)
 
@@ -64,3 +64,12 @@
 ---
 
 -(하이픈) 대신에 *나 _로 대체 사용 가능
+
+
+
+
+
+---
+
+이미지 링크 잘못 걸어서.. 수정함
+
